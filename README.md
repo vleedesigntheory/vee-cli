@@ -1,2 +1,3 @@
 # vee-cli
-个人脚手架
+
+> Vee CLI is the Standard Tooling for the Team of VLeeDesignTheory in Development.
